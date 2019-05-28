@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+p,h1,h3, table{
+    color: #182fd9;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#div_esquerda{
+    min-height: 200px;  
+    width: 70%; 
+    float: left;
+}
+#div_direita{
+    min-height: 200px; 
+    width: 30%; 
+    float: right;   
+}
+footer{
+    clear: both;
+    background-color: #266095;
+    text-align: center;
+    height: 50px;
+    font-size: 0.68rem;
+    padding: 10px;
+}
+
+
+
+
+
+
+
+
+
